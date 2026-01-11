@@ -7,7 +7,7 @@
 	"repositories": [
         {
 			"type": "composer", 
-			"url": "https://repo.packagist.com/crossdaletechsol"
+			"url": "https://repo.packagist.com/crossdaletechsol/"
 		},
         {
 			"packagist.org": false
