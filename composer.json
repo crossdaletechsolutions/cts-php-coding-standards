@@ -4,6 +4,15 @@
 	"type": "phpcodesniffer-standard",
 	"minimum-stability": "stable",
 	"license": "MIT",
+	"repositories": [
+        {
+			"type": "composer", 
+			"url": "https://repo.packagist.com/crossdaletechsol/"
+		},
+        {
+			"packagist.org": false
+		}
+    ],
 	"config": {
 		"sort-packages": true,
 		"secure-http": false
