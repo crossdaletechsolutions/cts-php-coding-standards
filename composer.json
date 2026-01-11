@@ -2,8 +2,8 @@
 	"name": "cts/php-coding-standards",
 	"description": "Crossdale Techs Solutions PHP Coding Standards",
 	"type": "phpcodesniffer-standard",
-	"minimum-stability": "stable",
-	"license": "MIT",
+	"license": "LGPL-3.0-or-later",
+	"keywords": [ "compatibility", "phpcs", "standards" ],
 	"repositories": [
         {
 			"type": "composer", 
