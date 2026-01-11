@@ -1,0 +1,16 @@
+{
+	"name": "cts/php-coding-standards",
+	"description": "Crossdale Techs Solutions PHP Coding Standards",
+	"type": "phpcodesniffer-standard",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"config": {
+		"sort-packages": true,
+		"secure-http": false
+	},
+	"require": {
+		"wp-coding-standards/wpcs": "^2.3",
+		"squizlabs/php_codesniffer": "^3.5",
+		"phpcompatibility/phpcompatibility-wp": "^2.1"
+	}
+}
